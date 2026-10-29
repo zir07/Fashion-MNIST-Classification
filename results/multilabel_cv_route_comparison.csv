@@ -1,0 +1,3 @@
+,macro-F1,micro-F1,weighted-F1,samples-F1,exact-match accuracy,Hamming loss
+KNN multilabel (direct),0.9584,0.9589,0.9589,0.9586,0.938,0.0276
+"SGD multiclass /255, mapped to labels",0.9467,0.9472,0.9468,0.9452,0.9259,0.0346

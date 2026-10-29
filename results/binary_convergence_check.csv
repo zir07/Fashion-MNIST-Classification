@@ -1,0 +1,5 @@
+model,max_iter,iterations used,ConvergenceWarning
+SGD + StandardScaler,1000,1000,True
+SGD + StandardScaler,5000,1558,False
+SGD + /255,1000,55,False
+SGD + /255,5000,55,False

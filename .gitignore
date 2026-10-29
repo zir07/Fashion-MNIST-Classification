@@ -1,0 +1,15 @@
+# Dataset (the training CSV is larger than GitHub's 100 MB file limit); see README for how to obtain it
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
